@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[discount created Pass]]>
+    </line>
+    <line>
+      <![CDATA[Login Pass]]>
+    </line>
+    <line>
+      <![CDATA[Open project displated]]>
+    </line>
+    <line>
+      <![CDATA[Edit option is displated]]>
+    </line>
+    <line>
+      <![CDATA[Delete option is displated]]>
+    </line>
+    <line>
+      <![CDATA[Navigate To Menu is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Change password Pass]]>
+    </line>
+    <line>
+      <![CDATA[Solutions page Content Based Personalization Fail]]>
+    </line>
+    <line>
+      <![CDATA[Solutionspage ContentBased Personalization unpublished Pass]]>
+    </line>
+    <line>
+      <![CDATA[Solutionspage ContentBased Personalization published pass]]>
+    </line>
+    <line>
+      <![CDATA[Solutionspage ContentBased Personalization SearchTab Pass]]>
+    </line>
+    <line>
+      <![CDATA[Solutionspage ContentBased Personalization content deleted]]>
+    </line>
+    <line>
+      <![CDATA[CbRecommendations cancle button is displated]]>
+    </line>
+    <line>
+      <![CDATA[CbRecommendations Save to List button is displated]]>
+    </line>
+    <line>
+      <![CDATA[CbRecommendations Save and Preview button is displated]]>
+    </line>
+    <line>
+      <![CDATA[Solutionspage ContentBased Recommendations Pass]]>
+    </line>
+    <line>
+      <![CDATA[Solutionspage ContentBased Recommendations unpublished Pass]]>
+    </line>
+    <line>
+      <![CDATA[Solutionspage ContentBased Recommendations published Pass]]>
+    </line>
+    <line>
+      <![CDATA[Solutionspage ContentBased Recommendations Search Pass]]>
+    </line>
+    <line>
+      <![CDATA[Individual Personalization cancle button is displated]]>
+    </line>
+    <line>
+      <![CDATA[Individual Personalization Save to List button is displated]]>
+    </line>
+    <line>
+      <![CDATA[Individual Personalization Save and Preview button is displated]]>
+    </line>
+    <line>
+      <![CDATA[Solutionspage Individual Personalization Pass]]>
+    </line>
+    <line>
+      <![CDATA[MPersonalizations cancle button is displated]]>
+    </line>
+    <line>
+      <![CDATA[MPersonalizationsub Save to List button isdisplated]]>
+    </line>
+    <line>
+      <![CDATA[MPersonalizationsub Save and Preview is displated]]>
+    </line>
+    <line>
+      <![CDATA[Solutionspage Mass Personalization Pass]]>
+    </line>
+    <line>
+      <![CDATA[Solutionspage Mass Personalization unpublished Pass]]>
+    </line>
+    <line>
+      <![CDATA[Solutionspage Mass Personalization published Pass]]>
+    </line>
+    <line>
+      <![CDATA[Solutionspage Mass Personalization SearchTab Pass]]>
+    </line>
+    <line>
+      <![CDATA[Dashboard is Displayed Pass]]>
+    </line>
+    <line>
+      <![CDATA[Dashboard is not Displayed Fail]]>
+    </line>
+    <line>
+      <![CDATA[Individual Personalization is Displayed Pass]]>
+    </line>
+    <line>
+      <![CDATA[Mass Personalization is Displayed Pass]]>
+    </line>
+    <line>
+      <![CDATA[Content Based Recommendations is Displayed Pass]]>
+    </line>
+    <line>
+      <![CDATA[ContentBasedPersonalization is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[A/B Testing is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[A/B Testing view button  is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[user create button is Displayed Pass]]>
+    </line>
+    <line>
+      <![CDATA[Edit Option is Displayed Pass]]>
+    </line>
+    <line>
+      <![CDATA[Update button is Displayed Pass]]>
+    </line>
+    <line>
+      <![CDATA[Delete button is Displayed Pass]]>
+    </line>
+    <line>
+      <![CDATA[API Keys is Displayed Pass]]>
+    </line>
+    <line>
+      <![CDATA[Project ID and Copy button Pass]]>
+    </line>
+    <line>
+      <![CDATA[Project Token field and Copy button is Displayed Pass]]>
+    </line>
+    <line>
+      <![CDATA[Meta Enrichment Content Meta data upated Fail]]>
+    </line>
+    <line>
+      <![CDATA[logout Pass]]>
+    </line>
+    <line>
+      <![CDATA[invalid login Pass]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2019-11-27T04:47:05Z" name="Default suite" finished-at="2019-11-27T04:55:04Z" duration-ms="478966">
+    <groups>
+    </groups>
+    <test started-at="2019-11-27T04:47:05Z" name="Default test" finished-at="2019-11-27T04:55:04Z" duration-ms="478966">
+      <class name="MyRecoTest.MyRecoTest">
+        <test-method signature="startpage()[pri:1, instance:MyRecoTest.MyRecoTest@79079097]" started-at="2019-11-27T04:47:05Z" name="startpage" finished-at="2019-11-27T04:47:16Z" duration-ms="11096" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[discount created Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startpage -->
+        <test-method signature="openpage()[pri:2, instance:MyRecoTest.MyRecoTest@79079097]" started-at="2019-11-27T04:47:16Z" name="openpage" finished-at="2019-11-27T04:48:11Z" duration-ms="54782" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Pass]]>
+            </line>
+            <line>
+              <![CDATA[Open project displated]]>
+            </line>
+            <line>
+              <![CDATA[Edit option is displated]]>
+            </line>
+            <line>
+              <![CDATA[Delete option is displated]]>
+            </line>
+            <line>
+              <![CDATA[Navigate To Menu is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Change password Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openpage -->
+        <test-method signature="Solutionspage()[pri:3, instance:MyRecoTest.MyRecoTest@79079097]" started-at="2019-11-27T04:48:11Z" name="Solutionspage" finished-at="2019-11-27T04:52:35Z" duration-ms="263698" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Solutions page Content Based Personalization Fail]]>
+            </line>
+            <line>
+              <![CDATA[Solutionspage ContentBased Personalization unpublished Pass]]>
+            </line>
+            <line>
+              <![CDATA[Solutionspage ContentBased Personalization published pass]]>
+            </line>
+            <line>
+              <![CDATA[Solutionspage ContentBased Personalization SearchTab Pass]]>
+            </line>
+            <line>
+              <![CDATA[Solutionspage ContentBased Personalization content deleted]]>
+            </line>
+            <line>
+              <![CDATA[CbRecommendations cancle button is displated]]>
+            </line>
+            <line>
+              <![CDATA[CbRecommendations Save to List button is displated]]>
+            </line>
+            <line>
+              <![CDATA[CbRecommendations Save and Preview button is displated]]>
+            </line>
+            <line>
+              <![CDATA[Solutionspage ContentBased Recommendations Pass]]>
+            </line>
+            <line>
+              <![CDATA[Solutionspage ContentBased Recommendations unpublished Pass]]>
+            </line>
+            <line>
+              <![CDATA[Solutionspage ContentBased Recommendations published Pass]]>
+            </line>
+            <line>
+              <![CDATA[Solutionspage ContentBased Recommendations Search Pass]]>
+            </line>
+            <line>
+              <![CDATA[Individual Personalization cancle button is displated]]>
+            </line>
+            <line>
+              <![CDATA[Individual Personalization Save to List button is displated]]>
+            </line>
+            <line>
+              <![CDATA[Individual Personalization Save and Preview button is displated]]>
+            </line>
+            <line>
+              <![CDATA[Solutionspage Individual Personalization Pass]]>
+            </line>
+            <line>
+              <![CDATA[MPersonalizations cancle button is displated]]>
+            </line>
+            <line>
+              <![CDATA[MPersonalizationsub Save to List button isdisplated]]>
+            </line>
+            <line>
+              <![CDATA[MPersonalizationsub Save and Preview is displated]]>
+            </line>
+            <line>
+              <![CDATA[Solutionspage Mass Personalization Pass]]>
+            </line>
+            <line>
+              <![CDATA[Solutionspage Mass Personalization unpublished Pass]]>
+            </line>
+            <line>
+              <![CDATA[Solutionspage Mass Personalization published Pass]]>
+            </line>
+            <line>
+              <![CDATA[Solutionspage Mass Personalization SearchTab Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Solutionspage -->
+        <test-method signature="Analyticspage()[pri:4, instance:MyRecoTest.MyRecoTest@79079097]" started-at="2019-11-27T04:52:35Z" name="Analyticspage" finished-at="2019-11-27T04:53:40Z" duration-ms="64944" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Dashboard is Displayed Pass]]>
+            </line>
+            <line>
+              <![CDATA[Dashboard is not Displayed Fail]]>
+            </line>
+            <line>
+              <![CDATA[Individual Personalization is Displayed Pass]]>
+            </line>
+            <line>
+              <![CDATA[Mass Personalization is Displayed Pass]]>
+            </line>
+            <line>
+              <![CDATA[Content Based Recommendations is Displayed Pass]]>
+            </line>
+            <line>
+              <![CDATA[ContentBasedPersonalization is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[A/B Testing is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[A/B Testing view button  is Displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Analyticspage -->
+        <test-method signature="Configurepage()[pri:4, instance:MyRecoTest.MyRecoTest@79079097]" started-at="2019-11-27T04:53:40Z" name="Configurepage" finished-at="2019-11-27T04:54:46Z" duration-ms="66165" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[user create button is Displayed Pass]]>
+            </line>
+            <line>
+              <![CDATA[Edit Option is Displayed Pass]]>
+            </line>
+            <line>
+              <![CDATA[Update button is Displayed Pass]]>
+            </line>
+            <line>
+              <![CDATA[Delete button is Displayed Pass]]>
+            </line>
+            <line>
+              <![CDATA[API Keys is Displayed Pass]]>
+            </line>
+            <line>
+              <![CDATA[Project ID and Copy button Pass]]>
+            </line>
+            <line>
+              <![CDATA[Project Token field and Copy button is Displayed Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Configurepage -->
+        <test-method signature="ContentManagementpage()[pri:5, instance:MyRecoTest.MyRecoTest@79079097]" started-at="2019-11-27T04:54:46Z" name="ContentManagementpage" finished-at="2019-11-27T04:54:49Z" duration-ms="3081" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Meta Enrichment Content Meta data upated Fail]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ContentManagementpage -->
+        <test-method signature="logoutpage()[pri:6, instance:MyRecoTest.MyRecoTest@79079097]" started-at="2019-11-27T04:54:49Z" name="logoutpage" finished-at="2019-11-27T04:55:04Z" duration-ms="15171" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout Pass]]>
+            </line>
+            <line>
+              <![CDATA[invalid login Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutpage -->
+      </class> <!-- MyRecoTest.MyRecoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
